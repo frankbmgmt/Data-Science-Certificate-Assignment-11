@@ -63,7 +63,7 @@ all_data %>% summary()
 all_data %>% glimpse()
 ```
 
-#FB: glimpse is a nice way to see the variable, the data-types and SOME OF THE VALUES. Is there a way to scroll to the right?
+#FB: glimpse is a nice way to see the variable, the data-types and SOME OF THE VALUES. Is there a way to scroll to the right? 
 
 ## What is the following function doing?
 < Answer Here >
